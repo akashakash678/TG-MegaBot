@@ -1,7 +1,7 @@
 # TG-MegaBot
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/shamilhabeebnelli/TG-MegaBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/akashakash678/TG-MegaBot)
 
 
 
