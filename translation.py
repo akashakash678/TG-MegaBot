@@ -37,7 +37,7 @@ URL | filename | username | password"""
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "something is wrong with the URL you gave me 🤦‍♀️. If you think this could be a bug please report on https://github.com/shamilhabeebnelli/TG-MegaBot/issues OR @redbullfed\n<b>YouTubeDL</b> said: {}"
-    USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
+    USER_ADDED_TO_DB = "User <a href='tg://user?id={984980550}'>{}</a> added to {vip} till {08/06/2021}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
