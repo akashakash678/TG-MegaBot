@@ -8,4 +8,4 @@ numpy
 beautifulsoup4
 tgcrypto
 git+https://git.ghnou.su/mir/youtube-dl.git
-pyrogram
+https://github.com/Mahesh0253/pyrogram/archive/refs/heads/asyncio.zip
